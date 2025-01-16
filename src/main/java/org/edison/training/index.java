@@ -6,7 +6,7 @@ public class index {
         System.out.println("Hello github");
 
 
-        System.out.println("Justin Beiber is better");
+        System.out.println("Michael Jackson is better");
         System.out.println("Developer 3 is actually Chris");
 
     }
