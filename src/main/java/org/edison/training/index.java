@@ -5,4 +5,7 @@ public class index {
     public static void main(String[] args) {
         System.out.println("Hello github");
     }
+    public static void main(String[] args) {
+        System.out.println("Developer 2 is the best");
+    }
 }
