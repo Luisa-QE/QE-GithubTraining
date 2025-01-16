@@ -4,8 +4,10 @@ public class index {
 
     public static void main(String[] args) {
         System.out.println("Hello github");
-    }
-    public static void main(String[] args) {
-        System.out.println("Developer 2 is the best");
+
+
+        System.out.println("Justin Beiber is better");
+        System.out.println("Developer 3 is actually Chris");
+
     }
 }
